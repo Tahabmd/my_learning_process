@@ -15,12 +15,12 @@ img {
 }
 
 
-body {
+/* body {
     height: 100lvh;
     display: flex;
     justify-content: center;
     align-items: center;
-}
+} */
 
 .container {
     width: 60px;
